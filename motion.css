@@ -1,0 +1,37 @@
+.titre_motion{
+    
+    color: #181515;
+     font-size: 4rem;
+     padding-top:5rem ;
+     
+}
+
+
+.projetsMotion{
+    /* margin: 0 10rem; */
+    margin-top: 10rem;
+    display: flex;
+    /* flex-wrap:wrap; */
+    justify-content: center;
+    margin-left: 7.5rem;
+        
+    flex-direction:column;
+   
+    
+}
+
+
+
+.videoMotion{
+    display: flex;
+    justify-content: center;
+   
+
+
+    
+}
+video
+{
+margin-right:5rem;
+margin-bottom: 1rem;
+} 

@@ -1,0 +1,30 @@
+.titre_photo{
+    
+    color: #181515;
+     font-size: 4rem;
+     padding-top:5rem ;
+     
+}
+
+.contenuPhoto{
+    text-align: center;
+}
+
+.projetsPhotos{
+    margin: 0 10rem;
+    margin-top: 10rem;
+    display: flex;
+    /* flex-wrap:wrap; */
+    justify-content: center;
+    flex-direction: column;
+}
+.imagePhoto
+{
+    
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-left: 2.5rem;
+}
+a.PortfolioLink{
+    color:#181515;
+}
